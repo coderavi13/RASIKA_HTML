@@ -1,0 +1,16 @@
+.heading{
+
+    color: RED;
+    font-size: 20;
+    font-style: normal;
+    border-color: blueviolet;
+    background-color: black;
+    border-width: 20px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.p{
+    font-size: x-large;
+}
